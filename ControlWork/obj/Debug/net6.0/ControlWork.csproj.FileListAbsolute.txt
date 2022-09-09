@@ -1,0 +1,15 @@
+/Users/a123/Desktop/ControlWork/ControlWork/bin/Debug/net6.0/ControlWork
+/Users/a123/Desktop/ControlWork/ControlWork/bin/Debug/net6.0/ControlWork.deps.json
+/Users/a123/Desktop/ControlWork/ControlWork/bin/Debug/net6.0/ControlWork.runtimeconfig.json
+/Users/a123/Desktop/ControlWork/ControlWork/bin/Debug/net6.0/ControlWork.dll
+/Users/a123/Desktop/ControlWork/ControlWork/bin/Debug/net6.0/ControlWork.pdb
+/Users/a123/Desktop/ControlWork/ControlWork/obj/Debug/net6.0/ControlWork.csproj.AssemblyReference.cache
+/Users/a123/Desktop/ControlWork/ControlWork/obj/Debug/net6.0/ControlWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a123/Desktop/ControlWork/ControlWork/obj/Debug/net6.0/ControlWork.AssemblyInfoInputs.cache
+/Users/a123/Desktop/ControlWork/ControlWork/obj/Debug/net6.0/ControlWork.AssemblyInfo.cs
+/Users/a123/Desktop/ControlWork/ControlWork/obj/Debug/net6.0/ControlWork.csproj.CoreCompileInputs.cache
+/Users/a123/Desktop/ControlWork/ControlWork/obj/Debug/net6.0/ControlWork.dll
+/Users/a123/Desktop/ControlWork/ControlWork/obj/Debug/net6.0/refint/ControlWork.dll
+/Users/a123/Desktop/ControlWork/ControlWork/obj/Debug/net6.0/ControlWork.pdb
+/Users/a123/Desktop/ControlWork/ControlWork/obj/Debug/net6.0/ControlWork.genruntimeconfig.cache
+/Users/a123/Desktop/ControlWork/ControlWork/obj/Debug/net6.0/ref/ControlWork.dll
